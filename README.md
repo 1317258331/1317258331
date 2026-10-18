@@ -25,9 +25,9 @@
 ## 02 — 精选作品
 
 <div align="center">
-  <a href="https://github.com/1317258331/vue3-template-xsfy"><img src="assets/work-1.svg" width="300" alt="Vue 3 Starter — vue3-template-xsfy"></a>
-  <a href="https://github.com/1317258331/vuepress_project"><img src="assets/work-2.svg" width="300" alt="Component Docs — vuepress_project"></a>
-  <a href="https://github.com/1317258331?tab=stars"><img src="assets/work-3.svg" width="300" alt="Open Source Map — 我的 GitHub 收藏"></a>
+  <a href="https://github.com/1317258331/vue3-template-xsfy"><img src="assets/work-1.svg" width="272" alt="Vue 3 Starter — vue3-template-xsfy"></a>
+  <a href="https://github.com/1317258331/vuepress_project"><img src="assets/work-2.svg" width="272" alt="Component Docs — vuepress_project"></a>
+  <a href="https://github.com/1317258331?tab=stars"><img src="assets/work-3.svg" width="272" alt="Open Source Map — 我的 GitHub 收藏"></a>
 </div>
 
 ## 03 — 技术栈
