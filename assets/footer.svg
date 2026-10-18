@@ -1,0 +1,49 @@
+<svg width="1200" height="190" viewBox="0 0 1200 190" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="footerTitle footerDesc">
+  <title id="footerTitle">End note</title>
+  <desc id="footerDesc">A quiet manifesto: let interfaces breathe, let code have restraint.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="190" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#080D17"/>
+      <stop offset="0.5" stop-color="#060A12"/>
+      <stop offset="1" stop-color="#090D16"/>
+    </linearGradient>
+    <linearGradient id="topLine" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#5EEAD4" stop-opacity="0"/>
+      <stop offset="0.28" stop-color="#5EEAD4" stop-opacity="0.6"/>
+      <stop offset="0.5" stop-color="#A78BFA" stop-opacity="0.6"/>
+      <stop offset="0.78" stop-color="#FBBF24" stop-opacity="0.36"/>
+      <stop offset="1" stop-color="#FBBF24" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="halo" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(600 82) rotate(90) scale(260 100)">
+      <stop stop-color="#A78BFA" stop-opacity="0.11"/>
+      <stop offset="1" stop-color="#A78BFA" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="190" rx="22" fill="url(#bg)"/>
+  <rect width="1200" height="190" rx="22" fill="url(#halo)"/>
+  <rect x="1" y="1" width="1198" height="188" rx="21" stroke="#FFFFFF" stroke-opacity="0.06"/>
+  <path d="M0 2H1200" stroke="url(#topLine)" stroke-width="1.2"/>
+
+  <g stroke="#9FB2C9" stroke-opacity="0.12" fill="none">
+    <circle cx="108" cy="96" r="44"/>
+    <circle cx="108" cy="96" r="72" stroke-dasharray="2 10"/>
+    <circle cx="1092" cy="96" r="44"/>
+    <circle cx="1092" cy="96" r="72" stroke-dasharray="2 10"/>
+  </g>
+  <g fill="#DDF6FF">
+    <circle cx="152" cy="96" r="1.6" opacity="0.42"/>
+    <circle cx="108" cy="24" r="1.4" opacity="0.32"/>
+    <circle cx="1048" cy="96" r="1.6" opacity="0.42"/>
+    <circle cx="1092" cy="168" r="1.4" opacity="0.32"/>
+  </g>
+
+  <g>
+    <path d="M600 42L602.2 48.8L609 51L602.2 53.2L600 60L597.8 53.2L591 51L597.8 48.8L600 42Z" fill="#5EEAD4" fill-opacity="0.72"/>
+    <text x="600" y="82" text-anchor="middle" fill="#768AA3" font-family="'SFMono-Regular','JetBrains Mono','Cascadia Code',Menlo,monospace" font-size="8.5" letter-spacing="3.6">A QUIET MANIFESTO</text>
+  </g>
+
+  <text x="600" y="121" text-anchor="middle" fill="#E9F0F8" font-family="'Songti SC','Noto Serif SC',Georgia,'Times New Roman',serif" font-size="30" letter-spacing="1.2">让界面有呼吸，让代码有分寸。</text>
+
+  <line x1="470" y1="148" x2="730" y2="148" stroke="#FFFFFF" stroke-opacity="0.08"/>
+  <text x="600" y="168" text-anchor="middle" fill="#5F728B" font-family="'SFMono-Regular','JetBrains Mono','Cascadia Code',Menlo,monospace" font-size="8.5" letter-spacing="3">THANKS FOR VISITING · 罗志翔 · BEIJING</text>
+</svg>
