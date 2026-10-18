@@ -1,0 +1,38 @@
+<svg width="320" height="200" viewBox="0 0 320 200" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="w2Title w2Desc">
+  <title id="w2Title">Component Docs</title>
+  <desc id="w2Desc">A component library documentation site built with VuePress.</desc>
+  <defs>
+    <linearGradient id="bg" x1="10" y1="0" x2="310" y2="200" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#121120"/>
+      <stop offset="1" stop-color="#080C14"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(282 16) rotate(136) scale(160 140)">
+      <stop stop-color="#A78BFA" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#A78BFA" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="border" x1="0" y1="0" x2="320" y2="200" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#A78BFA" stop-opacity="0.4"/>
+      <stop offset="0.55" stop-color="#FFFFFF" stop-opacity="0.1"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0.04"/>
+    </linearGradient>
+  </defs>
+  <rect x="0.5" y="0.5" width="319" height="199" rx="18" fill="url(#bg)" stroke="url(#border)"/>
+  <rect x="0.5" y="0.5" width="319" height="199" rx="18" fill="url(#glow)"/>
+  <text x="296" y="182" text-anchor="end" fill="#A78BFA" fill-opacity="0.05" font-family="Georgia,serif" font-size="92">02</text>
+
+  <text x="24" y="32" fill="#A78BFA" font-family="'SFMono-Regular','JetBrains Mono','Cascadia Code',Menlo,monospace" font-size="8.5" letter-spacing="2.2">02 / DOCUMENTATION</text>
+  <g stroke="#A78BFA" stroke-opacity="0.5" stroke-width="1.1">
+    <rect x="268" y="23" width="12" height="12" rx="2.5"/>
+    <rect x="276" y="31" width="12" height="12" rx="2.5"/>
+  </g>
+
+  <text x="24" y="76" fill="#EDF4FB" font-family="'Baskerville','Songti SC',Georgia,serif" font-size="24">Component Docs</text>
+  <text x="24" y="98" fill="#7F93AB" font-family="'SFMono-Regular','JetBrains Mono','Cascadia Code',Menlo,monospace" font-size="9" letter-spacing="0.8">vuepress_project</text>
+
+  <text x="24" y="130" fill="#B7C5D7" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif" font-size="11.5">组件库文档站点，记录设计</text>
+  <text x="24" y="148" fill="#B7C5D7" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif" font-size="11.5">与实现之间的细节。</text>
+
+  <circle cx="27" cy="176" r="2.4" fill="#41B883"/>
+  <text x="36" y="179" fill="#7488A0" font-family="'SFMono-Regular','JetBrains Mono','Cascadia Code',Menlo,monospace" font-size="8.5" letter-spacing="1.2">VUEPRESS</text>
+  <path d="M276 175H287M282 170L287 175L282 180" stroke="#8399B1" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
