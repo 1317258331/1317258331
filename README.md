@@ -1,47 +1,62 @@
 <div align="center">
-  <img src="assets/hero.svg" width="100%" alt="罗志翔 — 在前端世界里，打磨有秩序的美">
+  <img src="https://raw.githubusercontent.com/zhixiang-luo/shengzhang/main/design/exports/brand-mark.png" width="112" alt="罗志翔的个人标识">
+
+  <h1>罗志翔</h1>
+
+  <p><strong>AI 应用开发工程师 · 全栈工程 · 独立产品</strong></p>
+
+  <p>把复杂留给架构，把简单留给用户。</p>
+
+  <p>
+    <a href="https://github.com/zhixiang-luo/shengzhang">声账</a>
+    ·
+    <a href="https://github.com/zhixiang-luo/shengzhang/releases">Android 内测</a>
+  </p>
 </div>
 
-<p align="center">
-  <a href="https://github.com/zhixiang-luo?tab=repositories"><img src="assets/btn-work.svg" height="46" alt="查看作品"></a>
-  &nbsp;
-  <a href="https://github.com/zhixiang-luo?tab=stars"><img src="assets/btn-stars.svg" height="46" alt="查看收藏"></a>
-  &nbsp;
-  <a href="https://github.com/zhixiang-luo"><img src="assets/btn-follow.svg" height="46" alt="关注罗志翔"></a>
-</p>
+## 关于我
 
-## 01 — 关于我
+我有 9 年前端与全栈开发经验，近 2 年聚焦 AI 应用工程化。
 
-> 把复杂留给架构，把简单留给用户。
+2024–2026 年参与北京通用人工智能研究院的 AI 科研成果工程化，负责 AI 开放平台、实时语音交互和知识库问答等项目的技术落地。熟悉从需求评审、架构设计、前后端开发，到测试、部署和线上问题排查的完整交付链路。
 
-前端开发者，常驻北京。喜欢在 **Vue 生态** 里打磨产品，也着迷于组件设计、交互细节与工程化带来的秩序感。
+现在，我在业余时间独立开发产品，把复杂技术收进简单的使用体验里。
 
-对我来说，好的界面不只是「能用」——它应该有节奏、有呼吸，也有恰到好处的克制。
+## 代表工作
 
-| 在做 | 在研究 | 在相信 |
-| :---: | :---: | :---: |
-| Vue 3 应用与 Electron 桌面端 | 设计系统与界面动效 | 清晰胜过聪明 |
+### 声账 · 语音优先记账 App
 
-## 02 — 精选作品
+从产品定义、React Native 客户端、Fastify 语音网关到 SQLite 本地账本、测试、部署和发布，独立完成完整产品闭环。
 
-<div align="center">
-  <a href="https://github.com/zhixiang-luo/vue3-template-xsfy"><img src="assets/work-1.svg" width="272" alt="Vue 3 Starter — vue3-template-xsfy"></a>
-  <a href="https://github.com/zhixiang-luo/vuepress_project"><img src="assets/work-2.svg" width="272" alt="Component Docs — vuepress_project"></a>
-  <a href="https://github.com/zhixiang-luo?tab=stars"><img src="assets/work-3.svg" width="272" alt="Open Source Map — 我的 GitHub 收藏"></a>
-</div>
+- 按住说一句，松手后由 LLM 自动整理金额、分类、日期和备注
+- 支持一句话多笔、8 秒整批撤销和本地优先
+- 53 项自动化测试、200 条语音评测基线、匿名产品观测
+- 已开源：[zhixiang-luo/shengzhang](https://github.com/zhixiang-luo/shengzhang)
 
-## 03 — 技术栈
+### AI 应用工程
 
-<div align="center">
-  <img src="assets/stack.svg" width="100%" alt="Vue 3, TypeScript, Vite, Pinia, Tailwind CSS, Electron">
-</div>
+- AI 能力开放平台：统一 7 项多模态能力的调试、API Key、计费和长任务链路
+- 机器人实时语音系统：WebSocket / MQTT、流式 ASR、LLM、TTS、VAD 与 function call
+- RAG 知识库应用：文档解析、答案溯源与流式对话体验
 
-## 04 — 此刻
+企业项目涉及内部代码与客户信息，公开仓库主要展示通用工程能力与个人产品。
 
-- 持续打磨 **Vue 3 + Electron** 的桌面端体验
-- 对 **设计系统、界面动效、前端工程化** 保持长期好奇
-- 喜欢把想法从「能跑」推进到「好用、好看、好维护」
+## 技术栈
 
-<div align="center">
-  <img src="assets/footer.svg" width="100%" alt="让界面有呼吸，让代码有分寸。">
-</div>
+**产品与前端**  
+Vue 3 · React · TypeScript · React Native / Expo · Electron · Vite · Pinia
+
+**服务端与 AI 应用**  
+Node.js · Go · Python · Fastify · WebSocket · SSE · LLM API · Prompt Engineering · RAG
+
+**语音与多模态**  
+ASR · TTS · VAD · 多模态生成 · Agent function call
+
+**工程与部署**  
+Monorepo · 微前端 · Docker · Nginx · GitLab CI/CD · GitHub Actions · SQLite
+
+## 工作方向
+
+开放 AI 应用开发、全栈工程和前端架构岗位机会，也关注独立产品与技术合作。
+
+如果你正在把 AI 能力变成真正可用的产品，欢迎交流。
